@@ -1,4 +1,12 @@
 <?php
+   /*
+   Plugin Name: Jupyter
+   Description: 
+   Version: 1.0
+   Author: Clover
+   Author URI: https://github.com/CloverNet
+   License: MIT
+   */
 
 function jupyter_enqueue_style() {
 	wp_enqueue_style( 'Jupyter', plugins_url( '/css/jupyter.css', __FILE__ ));
