@@ -1,7 +1,7 @@
 <?php
    /*
    Plugin Name: Jupyter
-   Description: 
+   Description: Jupyter-WordPress插件，支持Jupyter站点内嵌于文章内
    Version: 1.0
    Author: Clover
    Author URI: https://github.com/CloverNet
